@@ -1,0 +1,38 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Mon extension test\n"
+"POT-Creation-Date: 2014-12-14 15:23+0100\n"
+"PO-Revision-Date: 2014-12-14 15:25+0100\n"
+"Last-Translator: \n"
+"Language-Team: Anne-Laure\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.1\n"
+"X-Poedit-Basepath: E:\\gh-WEB\\Plugins-WP\\ald-functions-knowledge-PP\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_x;_ex\n"
+"Language: fr_FR\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: templates/testAL-page.php:17 templates/testAL-single.php:18
+msgid "ici"
+msgstr "ou là"
+
+#: templates/testAL-page.php:18 templates/testAL-single.php:19
+#, php-format
+msgid "Ceci est un test pour le plugin décrit %s"
+msgstr "Celà pourrait être un test %s mais "
+
+#: templates/testAL-page.php:21 templates/testAL-single.php:22
+msgid "port"
+msgstr "ship-yard"
+
+#: templates/testAL-page.php:23 templates/testAL-single.php:24
+msgid "bouton 2"
+msgstr "bouton pour ça"
+
+#: templates/testAL-page.php:25 templates/testAL-single.php:26
+msgid "Bouton 3"
+msgstr "bouton pour autre chose encore ! "
