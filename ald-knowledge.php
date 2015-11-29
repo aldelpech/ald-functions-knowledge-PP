@@ -61,6 +61,9 @@ if ( ! defined( 'WPINC' ) ) {
 	require_once plugin_dir_path( __FILE__ ) . 'includes/ald-css-scripts-fonts.php'; 
 	require_once plugin_dir_path( __FILE__ ) . 'includes/ald-shortcodes.php'; 
 	require_once plugin_dir_path( __FILE__ ) . 'includes/ald-load-templates.php';
+	require_once plugin_dir_path( __FILE__ ) . 'includes/ald-hms-testimonial-rating.php';	
+	require_once plugin_dir_path( __FILE__ ) . 'includes/ald-apk-upload.php';		
+	
 
 /*----------------------------------------------------------------------------*
  * deactivation and uninstall
