@@ -1,6 +1,9 @@
 Ce plugin a fait l'objet d'une série d'articles 
 http://knowledge.parcours-performance.com/series/plugin-fonctionnalites/ 
 
+V1.3.0
+https in ald-css-scripts-fonts.php
+
 V1.2.1
 Un plugin de fonctionnalités :
 

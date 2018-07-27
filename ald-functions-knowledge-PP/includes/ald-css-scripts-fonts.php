@@ -37,9 +37,10 @@ if (! function_exists('ald_enqueue_scripts') ){
 	wp_enqueue_style( 'font_awesome_css' ) ;
 	
 	// enqueue fonts
+	/* @since      	1.3.0 */
 	wp_enqueue_style( 
 		'google-nova-round', 
-		'http://fonts.googleapis.com/css?family=Nova+Round'
+		'https://fonts.googleapis.com/css?family=Nova+Round'
 	);
 	
 	// enqueue scripts
